@@ -71,12 +71,7 @@ Extracted data is displayed in simple gray boxes with all relevant information.
 
 3. **Start the development server**
    ```bash
-   npm start
-   ```
-
-4. **Open in browser**
-   ```
-   http://localhost:3000
+   npm run dev
    ```
 
 ---
